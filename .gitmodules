@@ -1,0 +1,3 @@
+[submodule "luci/luci-app-avrdude"]
+	path = luci/luci-app-avrdude
+	url = https://github.com/qianchenzhumeng/luci-app-avrdude
